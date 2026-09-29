@@ -1,4 +1,4 @@
-# Frontend UI Design Agents Collection · v1.3.1
+# Frontend UI Design Agents Collection · v1.3.2
 
 Static site, ready for Render.
 
